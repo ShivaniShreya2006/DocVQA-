@@ -1,0 +1,21 @@
+# Ignore user datasets and processing assets
+data/
+output/
+
+# Python execution caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Ignore temp scripts you made locally
+tmp_*.py
