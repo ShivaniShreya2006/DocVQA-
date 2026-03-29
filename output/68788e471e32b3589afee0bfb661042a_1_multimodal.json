@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "LatleleUa",
+                "left": 26,
+                "top": 14,
+                "width": 70,
+                "height": 8,
+                "conf": 0.0010168457922670132,
+                "id": "blk_000"
+            },
+            {
+                "text": "oentl4",
+                "left": 25,
+                "top": 23,
+                "width": 62,
+                "height": 12,
+                "conf": 5.995325259210736,
+                "id": "blk_001"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

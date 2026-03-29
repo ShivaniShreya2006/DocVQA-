@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "Ii",
+                "left": 23,
+                "top": 40,
+                "width": 25,
+                "height": 4,
+                "conf": 0.607767202786889,
+                "id": "blk_000"
+            },
+            {
+                "text": "Ae_LS",
+                "left": 80,
+                "top": 109,
+                "width": 59,
+                "height": 16,
+                "conf": 8.45078261041512,
+                "id": "blk_001"
+            },
+            {
+                "text": "32223220",
+                "left": 277,
+                "top": 259,
+                "width": 140,
+                "height": 20,
+                "conf": 11.228011639553804,
+                "id": "blk_002"
+            },
+            {
+                "text": "CiO",
+                "left": 72,
+                "top": 262,
+                "width": 28,
+                "height": 8,
+                "conf": 0.7615632169311509,
+                "id": "blk_003"
+            },
+            {
+                "text": "#el",
+                "left": 84,
+                "top": 324,
+                "width": 26,
+                "height": 8,
+                "conf": 0.8657392668219644,
+                "id": "blk_004"
+            },
+            {
+                "text": "TLITIL",
+                "left": 263,
+                "top": 323,
+                "width": 114,
+                "height": 12,
+                "conf": 1.9981363373325474,
+                "id": "blk_005"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

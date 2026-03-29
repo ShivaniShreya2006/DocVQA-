@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "3",
+                "left": 149,
+                "top": 287,
+                "width": 46,
+                "height": 42,
+                "conf": 31.41671610339678,
+                "id": "blk_000"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

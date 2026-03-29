@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "=Z573==",
+                "left": 20,
+                "top": 32,
+                "width": 193,
+                "height": 40,
+                "conf": 14.941026604040092,
+                "id": "blk_000"
+            },
+            {
+                "text": "3",
+                "left": 23,
+                "top": 97,
+                "width": 42,
+                "height": 42,
+                "conf": 20.856938873543474,
+                "id": "blk_001"
+            },
+            {
+                "text": "Llt43",
+                "left": 119,
+                "top": 131,
+                "width": 94,
+                "height": 12,
+                "conf": 0.11332024945577407,
+                "id": "blk_002"
+            },
+            {
+                "text": "JItC",
+                "left": 119,
+                "top": 139,
+                "width": 80,
+                "height": 12,
+                "conf": 3.007648140192032,
+                "id": "blk_003"
+            },
+            {
+                "text": "Jol ",
+                "left": 69,
+                "top": 157,
+                "width": 46,
+                "height": 12,
+                "conf": 1.138121634721756,
+                "id": "blk_004"
+            },
+            {
+                "text": "EtO",
+                "left": 69,
+                "top": 181,
+                "width": 44,
+                "height": 14,
+                "conf": 12.61075334950967,
+                "id": "blk_005"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

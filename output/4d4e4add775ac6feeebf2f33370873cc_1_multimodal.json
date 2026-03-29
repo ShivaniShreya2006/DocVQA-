@@ -1,0 +1,59 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "Anentnant 1",
+                "left": 310,
+                "top": 27,
+                "width": 99,
+                "height": 20,
+                "conf": 15.86420071502521,
+                "id": "blk_000"
+            },
+            {
+                "text": "#",
+                "left": 374,
+                "top": 112,
+                "width": 32,
+                "height": 44,
+                "conf": 96.05189690237381,
+                "id": "blk_001"
+            },
+            {
+                "text": "=",
+                "left": 374,
+                "top": 148,
+                "width": 30,
+                "height": 24,
+                "conf": 63.754875740338335,
+                "id": "blk_002"
+            },
+            {
+                "text": "~",
+                "left": 301,
+                "top": 269,
+                "width": 28,
+                "height": 18,
+                "conf": 10.386783028177948,
+                "id": "blk_003"
+            },
+            {
+                "text": "4",
+                "left": 360,
+                "top": 262,
+                "width": 48,
+                "height": 74,
+                "conf": 20.96907945960993,
+                "id": "blk_004"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

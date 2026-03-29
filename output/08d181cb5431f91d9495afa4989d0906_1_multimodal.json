@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "Cetu",
+                "left": 52,
+                "top": 278,
+                "width": 24,
+                "height": 6,
+                "conf": 0.0439466442912817,
+                "id": "blk_000"
+            },
+            {
+                "text": "F",
+                "left": 372,
+                "top": 422,
+                "width": 32,
+                "height": 6,
+                "conf": 0.9699449402402971,
+                "id": "blk_001"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

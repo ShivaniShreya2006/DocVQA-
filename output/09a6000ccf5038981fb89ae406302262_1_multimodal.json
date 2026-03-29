@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "Catels",
+                "left": 36,
+                "top": 20,
+                "width": 82,
+                "height": 28,
+                "conf": 49.23436130513137,
+                "id": "blk_000"
+            },
+            {
+                "text": "335 IX",
+                "left": 255,
+                "top": 61,
+                "width": 88,
+                "height": 14,
+                "conf": 4.209660198087535,
+                "id": "blk_001"
+            },
+            {
+                "text": "23",
+                "left": 305,
+                "top": 137,
+                "width": 38,
+                "height": 20,
+                "conf": 23.43126671866245,
+                "id": "blk_002"
+            },
+            {
+                "text": "1;",
+                "left": 419,
+                "top": 157,
+                "width": 16,
+                "height": 34,
+                "conf": 9.774162103726017,
+                "id": "blk_003"
+            },
+            {
+                "text": "Deae",
+                "left": 79,
+                "top": 203,
+                "width": 34,
+                "height": 12,
+                "conf": 0.4554540850222111,
+                "id": "blk_004"
+            },
+            {
+                "text": "6",
+                "left": 419,
+                "top": 203,
+                "width": 16,
+                "height": 36,
+                "conf": 23.994708043526547,
+                "id": "blk_005"
+            },
+            {
+                "text": "70o",
+                "left": 63,
+                "top": 211,
+                "width": 44,
+                "height": 12,
+                "conf": 13.510882847588986,
+                "id": "blk_006"
+            },
+            {
+                "text": "#",
+                "left": 419,
+                "top": 247,
+                "width": 16,
+                "height": 34,
+                "conf": 90.19566912806773,
+                "id": "blk_007"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

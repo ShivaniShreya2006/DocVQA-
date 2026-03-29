@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "",
+                "left": 257,
+                "top": 139,
+                "width": 78,
+                "height": 60,
+                "conf": 0.0,
+                "id": "blk_000"
+            },
+            {
+                "text": "3p17",
+                "left": 325,
+                "top": 147,
+                "width": 66,
+                "height": 18,
+                "conf": 1.185559667646885,
+                "id": "blk_001"
+            },
+            {
+                "text": "325?",
+                "left": 325,
+                "top": 171,
+                "width": 66,
+                "height": 18,
+                "conf": 3.7771251052618027,
+                "id": "blk_002"
+            },
+            {
+                "text": "CF",
+                "left": 243,
+                "top": 215,
+                "width": 32,
+                "height": 18,
+                "conf": 2.5400709525215643,
+                "id": "blk_003"
+            },
+            {
+                "text": "4",
+                "left": 172,
+                "top": 224,
+                "width": 26,
+                "height": 8,
+                "conf": 39.423431369010586,
+                "id": "blk_004"
+            },
+            {
+                "text": "=3",
+                "left": 260,
+                "top": 276,
+                "width": 75,
+                "height": 18,
+                "conf": 2.910217856966493,
+                "id": "blk_005"
+            },
+            {
+                "text": "33",
+                "left": 357,
+                "top": 279,
+                "width": 34,
+                "height": 16,
+                "conf": 90.25919519474752,
+                "id": "blk_006"
+            },
+            {
+                "text": "= 33LE",
+                "left": 240,
+                "top": 288,
+                "width": 149,
+                "height": 32,
+                "conf": 32.760390007951656,
+                "id": "blk_007"
+            },
+            {
+                "text": "2",
+                "left": 151,
+                "top": 335,
+                "width": 52,
+                "height": 16,
+                "conf": 91.92815868627804,
+                "id": "blk_008"
+            },
+            {
+                "text": "Tn",
+                "left": 96,
+                "top": 342,
+                "width": 26,
+                "height": 8,
+                "conf": 0.26659100940953157,
+                "id": "blk_009"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

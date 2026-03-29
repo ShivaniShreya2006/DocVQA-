@@ -1,6 +1,5 @@
 # Ignore user datasets and processing assets
 data/
-output/
 
 # Python execution caches
 __pycache__/

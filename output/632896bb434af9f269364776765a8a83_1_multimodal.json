@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "=",
+                "left": 166,
+                "top": 26,
+                "width": 32,
+                "height": 32,
+                "conf": 63.97108023307396,
+                "id": "blk_000"
+            },
+            {
+                "text": "F",
+                "left": 174,
+                "top": 58,
+                "width": 22,
+                "height": 8,
+                "conf": 12.737876340210708,
+                "id": "blk_001"
+            },
+            {
+                "text": "DaoTotg WCU",
+                "left": 94,
+                "top": 125,
+                "width": 101,
+                "height": 14,
+                "conf": 9.60771565231209,
+                "id": "blk_002"
+            },
+            {
+                "text": "10",
+                "left": 317,
+                "top": 155,
+                "width": 24,
+                "height": 12,
+                "conf": 99.60756059397544,
+                "id": "blk_003"
+            },
+            {
+                "text": "77DXXAEF",
+                "left": 153,
+                "top": 179,
+                "width": 160,
+                "height": 16,
+                "conf": 0.19545609037721098,
+                "id": "blk_004"
+            },
+            {
+                "text": "33187=7",
+                "left": 200,
+                "top": 194,
+                "width": 137,
+                "height": 16,
+                "conf": 9.72228818823513,
+                "id": "blk_005"
+            },
+            {
+                "text": "LLti",
+                "left": 126,
+                "top": 206,
+                "width": 34,
+                "height": 8,
+                "conf": 0.5687729455530643,
+                "id": "blk_006"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

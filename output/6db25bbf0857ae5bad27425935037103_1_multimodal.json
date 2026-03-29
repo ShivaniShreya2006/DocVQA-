@@ -1,0 +1,59 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "Fannt",
+                "left": 42,
+                "top": 28,
+                "width": 40,
+                "height": 8,
+                "conf": 0.5679422712754625,
+                "id": "blk_000"
+            },
+            {
+                "text": "Otr",
+                "left": 104,
+                "top": 28,
+                "width": 24,
+                "height": 8,
+                "conf": 1.8855632725281841,
+                "id": "blk_001"
+            },
+            {
+                "text": "Ale",
+                "left": 172,
+                "top": 28,
+                "width": 26,
+                "height": 8,
+                "conf": 0.578666016162843,
+                "id": "blk_002"
+            },
+            {
+                "text": "Eaat",
+                "left": 246,
+                "top": 28,
+                "width": 30,
+                "height": 8,
+                "conf": 0.2662290120497346,
+                "id": "blk_003"
+            },
+            {
+                "text": "3",
+                "left": 314,
+                "top": 118,
+                "width": 100,
+                "height": 96,
+                "conf": 37.099240750351115,
+                "id": "blk_004"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

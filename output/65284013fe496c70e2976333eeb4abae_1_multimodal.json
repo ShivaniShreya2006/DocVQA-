@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "tealUt a0Z2LZX}-SLS",
+                "left": 123,
+                "top": 387,
+                "width": 274,
+                "height": 12,
+                "conf": 0.07896197665631548,
+                "id": "blk_000"
+            },
+            {
+                "text": "Lto",
+                "left": 66,
+                "top": 390,
+                "width": 32,
+                "height": 8,
+                "conf": 0.23521920143053482,
+                "id": "blk_001"
+            },
+            {
+                "text": "K#leattt Le t",
+                "left": 190,
+                "top": 398,
+                "width": 124,
+                "height": 8,
+                "conf": 0.09682366445941815,
+                "id": "blk_002"
+            },
+            {
+                "text": "444",
+                "left": 274,
+                "top": 408,
+                "width": 26,
+                "height": 8,
+                "conf": 8.723120389866288,
+                "id": "blk_003"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

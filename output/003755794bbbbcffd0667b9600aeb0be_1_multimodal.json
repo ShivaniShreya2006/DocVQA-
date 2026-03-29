@@ -1,0 +1,11 @@
+{
+    "metadata": {
+        "version": "1.0",
+        "format": "multimodal_document_encoding"
+    },
+    "document_content": {
+        "raw_text": "",
+        "logical_groups": [],
+        "all_tokens": []
+    }
+}

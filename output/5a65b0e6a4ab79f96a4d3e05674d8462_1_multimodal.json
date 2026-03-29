@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "Mnen  a",
+                "left": 26,
+                "top": 58,
+                "width": 44,
+                "height": 6,
+                "conf": 0.004144161867390409,
+                "id": "blk_000"
+            },
+            {
+                "text": "XC",
+                "left": 27,
+                "top": 71,
+                "width": 34,
+                "height": 9,
+                "conf": 2.1022029717061406,
+                "id": "blk_001"
+            },
+            {
+                "text": "{=",
+                "left": 24,
+                "top": 160,
+                "width": 44,
+                "height": 24,
+                "conf": 27.642612410299915,
+                "id": "blk_002"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "34777=",
+                "left": 274,
+                "top": 108,
+                "width": 87,
+                "height": 18,
+                "conf": 1.6048500110386783,
+                "id": "blk_000"
+            },
+            {
+                "text": "227",
+                "left": 289,
+                "top": 125,
+                "width": 104,
+                "height": 20,
+                "conf": 15.271640786314597,
+                "id": "blk_001"
+            },
+            {
+                "text": "EZ2EE",
+                "left": 291,
+                "top": 147,
+                "width": 82,
+                "height": 20,
+                "conf": 7.762796731567266,
+                "id": "blk_002"
+            },
+            {
+                "text": "Dane",
+                "left": 134,
+                "top": 150,
+                "width": 30,
+                "height": 8,
+                "conf": 0.6644147448241711,
+                "id": "blk_003"
+            },
+            {
+                "text": "EtEEC",
+                "left": 279,
+                "top": 163,
+                "width": 88,
+                "height": 12,
+                "conf": 5.667282775745875,
+                "id": "blk_004"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

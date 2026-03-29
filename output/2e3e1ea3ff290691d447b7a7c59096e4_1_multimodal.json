@@ -1,0 +1,59 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "Bae",
+                "left": 36,
+                "top": 36,
+                "width": 28,
+                "height": 8,
+                "conf": 0.440848871710921,
+                "id": "blk_000"
+            },
+            {
+                "text": "2",
+                "left": 136,
+                "top": 118,
+                "width": 44,
+                "height": 24,
+                "conf": 81.09859150798151,
+                "id": "blk_001"
+            },
+            {
+                "text": "AE L",
+                "left": 76,
+                "top": 120,
+                "width": 62,
+                "height": 8,
+                "conf": 25.464929693299663,
+                "id": "blk_002"
+            },
+            {
+                "text": "1cl7",
+                "left": 172,
+                "top": 120,
+                "width": 46,
+                "height": 8,
+                "conf": 0.46130004338920116,
+                "id": "blk_003"
+            },
+            {
+                "text": "Ecnce",
+                "left": 240,
+                "top": 122,
+                "width": 40,
+                "height": 8,
+                "conf": 0.029073456741801302,
+                "id": "blk_004"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

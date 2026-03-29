@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "Lac _ 713 Ia_ 43 -",
+                "left": 258,
+                "top": 291,
+                "width": 147,
+                "height": 15,
+                "conf": 3.754661833151587,
+                "id": "blk_000"
+            },
+            {
+                "text": "Eael : :",
+                "left": 222,
+                "top": 314,
+                "width": 179,
+                "height": 30,
+                "conf": 23.2930563694282,
+                "id": "blk_001"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

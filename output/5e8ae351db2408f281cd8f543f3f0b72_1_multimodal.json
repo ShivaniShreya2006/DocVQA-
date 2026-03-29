@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "2",
+                "left": 345,
+                "top": 37,
+                "width": 42,
+                "height": 25,
+                "conf": 19.88599211254618,
+                "id": "blk_000"
+            },
+            {
+                "text": "Dt",
+                "left": 35,
+                "top": 43,
+                "width": 28,
+                "height": 14,
+                "conf": 4.005397382885553,
+                "id": "blk_001"
+            },
+            {
+                "text": "TC",
+                "left": 318,
+                "top": 46,
+                "width": 26,
+                "height": 8,
+                "conf": 12.905353833190317,
+                "id": "blk_002"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

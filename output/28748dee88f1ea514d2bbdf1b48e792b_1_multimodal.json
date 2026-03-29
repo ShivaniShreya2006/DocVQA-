@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "\"nunuicy",
+                "left": 241,
+                "top": 27,
+                "width": 106,
+                "height": 12,
+                "conf": 7.532453584930933,
+                "id": "blk_000"
+            },
+            {
+                "text": "=",
+                "left": 366,
+                "top": 156,
+                "width": 38,
+                "height": 24,
+                "conf": 48.49757641308692,
+                "id": "blk_001"
+            },
+            {
+                "text": "14",
+                "left": 317,
+                "top": 183,
+                "width": 94,
+                "height": 66,
+                "conf": 38.335533497264755,
+                "id": "blk_002"
+            },
+            {
+                "text": "14",
+                "left": 317,
+                "top": 247,
+                "width": 96,
+                "height": 68,
+                "conf": 62.72347557405411,
+                "id": "blk_003"
+            },
+            {
+                "text": "1",
+                "left": 381,
+                "top": 253,
+                "width": 22,
+                "height": 12,
+                "conf": 16.675811227547488,
+                "id": "blk_004"
+            },
+            {
+                "text": "444",
+                "left": 110,
+                "top": 318,
+                "width": 30,
+                "height": 8,
+                "conf": 24.64530174518045,
+                "id": "blk_005"
+            },
+            {
+                "text": "An",
+                "left": 118,
+                "top": 388,
+                "width": 24,
+                "height": 6,
+                "conf": 0.17157766589689233,
+                "id": "blk_006"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

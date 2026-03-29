@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "L3",
+                "left": 55,
+                "top": 155,
+                "width": 26,
+                "height": 12,
+                "conf": 6.189288213836206,
+                "id": "blk_000"
+            },
+            {
+                "text": "78",
+                "left": 159,
+                "top": 199,
+                "width": 44,
+                "height": 14,
+                "conf": 18.162983567865677,
+                "id": "blk_001"
+            },
+            {
+                "text": "=Z=Z",
+                "left": 289,
+                "top": 197,
+                "width": 108,
+                "height": 18,
+                "conf": 8.125972747802734,
+                "id": "blk_002"
+            },
+            {
+                "text": "4=E1J3_=atalMGD4",
+                "left": 142,
+                "top": 216,
+                "width": 255,
+                "height": 21,
+                "conf": 0.060068667933764835,
+                "id": "blk_003"
+            },
+            {
+                "text": "32L",
+                "left": 67,
+                "top": 221,
+                "width": 56,
+                "height": 18,
+                "conf": 9.37450056871469,
+                "id": "blk_004"
+            },
+            {
+                "text": "~=OUGMVNGOIOOVE-",
+                "left": 137,
+                "top": 239,
+                "width": 244,
+                "height": 16,
+                "conf": 0.047070851823591185,
+                "id": "blk_005"
+            },
+            {
+                "text": "33333",
+                "left": 331,
+                "top": 253,
+                "width": 64,
+                "height": 16,
+                "conf": 1.2487099829368864,
+                "id": "blk_006"
+            },
+            {
+                "text": "Pa@",
+                "left": 56,
+                "top": 288,
+                "width": 32,
+                "height": 8,
+                "conf": 0.08916734484524641,
+                "id": "blk_007"
+            },
+            {
+                "text": "1",
+                "left": 209,
+                "top": 295,
+                "width": 38,
+                "height": 48,
+                "conf": 54.29119432489102,
+                "id": "blk_008"
+            },
+            {
+                "text": "1",
+                "left": 271,
+                "top": 293,
+                "width": 36,
+                "height": 48,
+                "conf": 72.52063023290454,
+                "id": "blk_009"
+            },
+            {
+                "text": "3",
+                "left": 368,
+                "top": 298,
+                "width": 30,
+                "height": 44,
+                "conf": 51.65778289481047,
+                "id": "blk_010"
+            },
+            {
+                "text": "1",
+                "left": 154,
+                "top": 304,
+                "width": 32,
+                "height": 38,
+                "conf": 38.82329391161399,
+                "id": "blk_011"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

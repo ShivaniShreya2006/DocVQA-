@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "4",
+                "left": 417,
+                "top": 19,
+                "width": 18,
+                "height": 46,
+                "conf": 89.39469493462617,
+                "id": "blk_000"
+            },
+            {
+                "text": "0",
+                "left": 419,
+                "top": 113,
+                "width": 16,
+                "height": 42,
+                "conf": 13.030877950612663,
+                "id": "blk_001"
+            },
+            {
+                "text": "C",
+                "left": 169,
+                "top": 157,
+                "width": 30,
+                "height": 12,
+                "conf": 24.854241302536195,
+                "id": "blk_002"
+            },
+            {
+                "text": "68",
+                "left": 417,
+                "top": 155,
+                "width": 18,
+                "height": 36,
+                "conf": 13.146665530736382,
+                "id": "blk_003"
+            },
+            {
+                "text": "1",
+                "left": 419,
+                "top": 205,
+                "width": 16,
+                "height": 32,
+                "conf": 11.893650988581417,
+                "id": "blk_004"
+            },
+            {
+                "text": "Uet",
+                "left": 60,
+                "top": 300,
+                "width": 36,
+                "height": 8,
+                "conf": 0.7532760726597368,
+                "id": "blk_005"
+            },
+            {
+                "text": "467v",
+                "left": 55,
+                "top": 393,
+                "width": 35,
+                "height": 9,
+                "conf": 9.518851339817047,
+                "id": "blk_006"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

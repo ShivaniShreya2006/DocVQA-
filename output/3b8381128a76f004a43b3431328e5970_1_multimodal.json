@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "E=3",
+                "left": 280,
+                "top": 42,
+                "width": 137,
+                "height": 51,
+                "conf": 19.60615752113762,
+                "id": "blk_000"
+            },
+            {
+                "text": "Z =",
+                "left": 162,
+                "top": 54,
+                "width": 104,
+                "height": 30,
+                "conf": 67.76891053121403,
+                "id": "blk_001"
+            },
+            {
+                "text": "ZZZEE3",
+                "left": 118,
+                "top": 117,
+                "width": 185,
+                "height": 41,
+                "conf": 3.524245821674268,
+                "id": "blk_002"
+            },
+            {
+                "text": "ZEZ",
+                "left": 203,
+                "top": 113,
+                "width": 152,
+                "height": 16,
+                "conf": 14.728708700003882,
+                "id": "blk_003"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

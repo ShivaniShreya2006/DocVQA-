@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "Tce",
+                "left": 36,
+                "top": 140,
+                "width": 22,
+                "height": 8,
+                "conf": 0.24328433162369242,
+                "id": "blk_000"
+            },
+            {
+                "text": "RICeZc",
+                "left": 32,
+                "top": 252,
+                "width": 56,
+                "height": 8,
+                "conf": 0.09660892569616013,
+                "id": "blk_001"
+            },
+            {
+                "text": "Eittna",
+                "left": 44,
+                "top": 264,
+                "width": 40,
+                "height": 6,
+                "conf": 0.2161154002360887,
+                "id": "blk_002"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

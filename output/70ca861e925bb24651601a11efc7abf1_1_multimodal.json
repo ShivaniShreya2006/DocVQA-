@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "4",
+                "left": 266,
+                "top": 102,
+                "width": 22,
+                "height": 6,
+                "conf": 22.926790372597683,
+                "id": "blk_000"
+            },
+            {
+                "text": "Uer",
+                "left": 320,
+                "top": 290,
+                "width": 28,
+                "height": 6,
+                "conf": 0.08840526158939452,
+                "id": "blk_001"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "33",
+                "left": 305,
+                "top": 25,
+                "width": 42,
+                "height": 16,
+                "conf": 58.375613254434086,
+                "id": "blk_000"
+            },
+            {
+                "text": "LLa Ln",
+                "left": 298,
+                "top": 46,
+                "width": 48,
+                "height": 8,
+                "conf": 0.3260280901418844,
+                "id": "blk_001"
+            },
+            {
+                "text": "13i",
+                "left": 338,
+                "top": 100,
+                "width": 42,
+                "height": 26,
+                "conf": 29.52585343709532,
+                "id": "blk_002"
+            },
+            {
+                "text": "Fan",
+                "left": 88,
+                "top": 142,
+                "width": 40,
+                "height": 6,
+                "conf": 0.1234188084429682,
+                "id": "blk_003"
+            },
+            {
+                "text": "##_",
+                "left": 84,
+                "top": 150,
+                "width": 22,
+                "height": 8,
+                "conf": 1.3808475262945719,
+                "id": "blk_004"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

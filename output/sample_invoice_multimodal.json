@@ -1,0 +1,257 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "INHOICE",
+                "left": 193,
+                "top": 198,
+                "width": 176,
+                "height": 51,
+                "conf": 58.7026233311813,
+                "id": "blk_000"
+            },
+            {
+                "text": "Invoice Number INI2023-999",
+                "left": 196,
+                "top": 398,
+                "width": 588,
+                "height": 53,
+                "conf": 45.75596378182317,
+                "id": "blk_001"
+            },
+            {
+                "text": "Date; 2023-11-01",
+                "left": 198,
+                "top": 518,
+                "width": 321,
+                "height": 51,
+                "conf": 35.733940063038496,
+                "id": "blk_002"
+            },
+            {
+                "text": "Description",
+                "left": 194,
+                "top": 797,
+                "width": 222,
+                "height": 57,
+                "conf": 97.69286330001353,
+                "id": "blk_003"
+            },
+            {
+                "text": "Unit Price",
+                "left": 1793,
+                "top": 798,
+                "width": 196,
+                "height": 53,
+                "conf": 78.29049663220904,
+                "id": "blk_004"
+            },
+            {
+                "text": "Quantity",
+                "left": 1392,
+                "top": 800,
+                "width": 177,
+                "height": 54,
+                "conf": 92.03974989082411,
+                "id": "blk_005"
+            },
+            {
+                "text": "Total",
+                "left": 2396,
+                "top": 801,
+                "width": 100,
+                "height": 48,
+                "conf": 75.44071120871905,
+                "id": "blk_006"
+            },
+            {
+                "text": "Softuare Engineering",
+                "left": 190,
+                "top": 915,
+                "width": 428,
+                "height": 62,
+                "conf": 71.13655875309458,
+                "id": "blk_007"
+            },
+            {
+                "text": "160.00",
+                "left": 1796,
+                "top": 918,
+                "width": 135,
+                "height": 51,
+                "conf": 42.690387032576396,
+                "id": "blk_008"
+            },
+            {
+                "text": "1600.00",
+                "left": 2396,
+                "top": 918,
+                "width": 160,
+                "height": 51,
+                "conf": 54.076620230209215,
+                "id": "blk_009"
+            },
+            {
+                "text": "10",
+                "left": 1398,
+                "top": 921,
+                "width": 53,
+                "height": 48,
+                "conf": 99.92384071241086,
+                "id": "blk_010"
+            },
+            {
+                "text": "Hoeting",
+                "left": 325,
+                "top": 1037,
+                "width": 159,
+                "height": 61,
+                "conf": 57.065703779001566,
+                "id": "blk_011"
+            },
+            {
+                "text": "200.00",
+                "left": 1791,
+                "top": 1038,
+                "width": 140,
+                "height": 51,
+                "conf": 64.30438432323477,
+                "id": "blk_012"
+            },
+            {
+                "text": "200.00",
+                "left": 2391,
+                "top": 1038,
+                "width": 140,
+                "height": 51,
+                "conf": 64.30438432323477,
+                "id": "blk_013"
+            },
+            {
+                "text": "Sener",
+                "left": 196,
+                "top": 1041,
+                "width": 130,
+                "height": 48,
+                "conf": 79.24863156021325,
+                "id": "blk_014"
+            },
+            {
+                "text": "1700.00",
+                "left": 2396,
+                "top": 1398,
+                "width": 160,
+                "height": 51,
+                "conf": 67.13329371606144,
+                "id": "blk_015"
+            },
+            {
+                "text": "Total Pmount",
+                "left": 1596,
+                "top": 1401,
+                "width": 260,
+                "height": 48,
+                "conf": 39.85967057055116,
+                "id": "blk_016"
+            },
+            {
+                "text": "ThankyOu for your businessi",
+                "left": 191,
+                "top": 1996,
+                "width": 549,
+                "height": 62,
+                "conf": 55.54433029032222,
+                "id": "blk_017"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [
+                {
+                    "key": "Invoice Number INI2023-999",
+                    "key_id": "blk_001",
+                    "value": "Date; 2023-11-01",
+                    "value_id": "blk_002",
+                    "confidence": 0.4074
+                },
+                {
+                    "key": "Total",
+                    "key_id": "blk_006",
+                    "value": "1600.00",
+                    "value_id": "blk_009",
+                    "confidence": 0.6476
+                }
+            ],
+            "tables": [
+                {
+                    "table_id": "tbl_000",
+                    "bbox": [
+                        190,
+                        797,
+                        2366,
+                        301
+                    ],
+                    "rows": [
+                        [
+                            {
+                                "text": "Description",
+                                "block_id": "blk_003"
+                            },
+                            {
+                                "text": "Quantity",
+                                "block_id": "blk_005"
+                            },
+                            {
+                                "text": "Unit Price",
+                                "block_id": "blk_004"
+                            },
+                            {
+                                "text": "Total",
+                                "block_id": "blk_006"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Softuare Engineering",
+                                "block_id": "blk_007"
+                            },
+                            {
+                                "text": "10",
+                                "block_id": "blk_010"
+                            },
+                            {
+                                "text": "160.00",
+                                "block_id": "blk_008"
+                            },
+                            {
+                                "text": "1600.00",
+                                "block_id": "blk_009"
+                            }
+                        ],
+                        [
+                            {
+                                "text": "Sener",
+                                "block_id": "blk_014"
+                            },
+                            {
+                                "text": "Hoeting",
+                                "block_id": "blk_011"
+                            },
+                            {
+                                "text": "200.00",
+                                "block_id": "blk_012"
+                            },
+                            {
+                                "text": "200.00",
+                                "block_id": "blk_013"
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "Le cu",
+                "left": 34,
+                "top": 244,
+                "width": 38,
+                "height": 8,
+                "conf": 0.1774529344600653,
+                "id": "blk_000"
+            },
+            {
+                "text": "3777",
+                "left": 37,
+                "top": 262,
+                "width": 46,
+                "height": 23,
+                "conf": 21.41377478837967,
+                "id": "blk_001"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

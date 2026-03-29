@@ -1,0 +1,59 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "3IZ72=",
+                "left": 27,
+                "top": 171,
+                "width": 96,
+                "height": 16,
+                "conf": 0.7053451559938891,
+                "id": "blk_000"
+            },
+            {
+                "text": "Ji 570t70'",
+                "left": 48,
+                "top": 187,
+                "width": 123,
+                "height": 18,
+                "conf": 0.9082061085477844,
+                "id": "blk_001"
+            },
+            {
+                "text": "Aa",
+                "left": 134,
+                "top": 206,
+                "width": 24,
+                "height": 6,
+                "conf": 2.1433661219831492,
+                "id": "blk_002"
+            },
+            {
+                "text": "Lap",
+                "left": 100,
+                "top": 268,
+                "width": 30,
+                "height": 6,
+                "conf": 0.04636357185577248,
+                "id": "blk_003"
+            },
+            {
+                "text": "3I=",
+                "left": 105,
+                "top": 277,
+                "width": 32,
+                "height": 14,
+                "conf": 21.325376629829407,
+                "id": "blk_004"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "Eitt",
+                "left": 178,
+                "top": 96,
+                "width": 34,
+                "height": 8,
+                "conf": 0.02633510739542544,
+                "id": "blk_000"
+            },
+            {
+                "text": "7T",
+                "left": 127,
+                "top": 175,
+                "width": 34,
+                "height": 12,
+                "conf": 9.758414509291592,
+                "id": "blk_001"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

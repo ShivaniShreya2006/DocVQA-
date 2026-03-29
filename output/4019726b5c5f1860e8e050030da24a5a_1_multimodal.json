@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "31",
+                "left": 312,
+                "top": 38,
+                "width": 86,
+                "height": 72,
+                "conf": 75.8460845207734,
+                "id": "blk_000"
+            },
+            {
+                "text": "33",
+                "left": 310,
+                "top": 116,
+                "width": 92,
+                "height": 74,
+                "conf": 56.293386317207506,
+                "id": "blk_001"
+            },
+            {
+                "text": "34",
+                "left": 310,
+                "top": 198,
+                "width": 88,
+                "height": 54,
+                "conf": 28.92012134581478,
+                "id": "blk_002"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

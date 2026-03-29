@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "Lende",
+                "left": 74,
+                "top": 162,
+                "width": 26,
+                "height": 6,
+                "conf": 0.060252291838468926,
+                "id": "blk_000"
+            },
+            {
+                "text": "Let @mtn",
+                "left": 318,
+                "top": 246,
+                "width": 44,
+                "height": 6,
+                "conf": 0.012634087270688607,
+                "id": "blk_001"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "33Z77",
+                "left": 83,
+                "top": 47,
+                "width": 88,
+                "height": 16,
+                "conf": 0.9261685203175227,
+                "id": "blk_000"
+            },
+            {
+                "text": "OcI CrocC",
+                "left": 61,
+                "top": 119,
+                "width": 65,
+                "height": 11,
+                "conf": 0.23060824909559763,
+                "id": "blk_001"
+            },
+            {
+                "text": "Z3Z3",
+                "left": 129,
+                "top": 255,
+                "width": 86,
+                "height": 16,
+                "conf": 5.01909963786602,
+                "id": "blk_002"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}

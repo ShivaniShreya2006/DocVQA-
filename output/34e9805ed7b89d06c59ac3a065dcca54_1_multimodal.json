@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "format": "multimodal_document_encoding"
+    },
+    "visual_layout_encoding": {
+        "text_blocks": [
+            {
+                "text": "Clt",
+                "left": 305,
+                "top": 167,
+                "width": 40,
+                "height": 18,
+                "conf": 2.9847123561409306,
+                "id": "blk_000"
+            },
+            {
+                "text": "~ZE",
+                "left": 335,
+                "top": 183,
+                "width": 60,
+                "height": 16,
+                "conf": 6.986140940624979,
+                "id": "blk_001"
+            }
+        ],
+        "entities": {
+            "key_value_pairs": [],
+            "tables": []
+        }
+    }
+}
